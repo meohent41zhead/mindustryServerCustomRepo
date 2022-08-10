@@ -1,0 +1,8 @@
+{
+  "name": "nekoplugin",
+  "displayName": "nekoplugin",
+  "author": "Neko-chan not so slow",
+  "main": "main.mf",
+  "description": "no thon",
+  "version": "0.0.1"
+}
